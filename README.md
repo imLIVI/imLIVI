@@ -1,5 +1,5 @@
 ### Hi, I`m Viktoria 👋
-
+<p>I'm learning Java</p>
 <p align='center'>
   <a href ="https://t.me/livik1208"></a>
   <img srс="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
