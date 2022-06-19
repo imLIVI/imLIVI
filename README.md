@@ -1,11 +1,14 @@
-### Hi, I`m Viktoria 👋
-<p>I'm learning Java</p>
-<p align='center'>
-  <a href ="https://t.me/livik1208"></a>
-  <img srс="https://pngicon.ru/file/uploads/telegram-128x128.png" alt="Telegram">
-  <a href="mailto:livik1208@gmail.com"></a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</p>
+### Hi, I`m Vika 👋
+- :coffee: I’m currently learning Java
+- 👯 I’m looking to any collaborate
+# 🛠 Technical Stack
+* Java
+* HTML/CSS
+* MySQL, Oracle
+* GitHub
+
+
+
 <!--
 **imLIVI/imLIVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
