@@ -1,9 +1,10 @@
 ### Hi, I`m Vika 👋
 - :coffee: I’m currently learning Java
+- If you want, you can see my <a href="https://imlivi.github.io/site-portfolio/">portfolio website</a>
 - 👯 I’m looking to any collaborate
 # 🛠 Technical Stack
 * Java
-* HTML/CSS
+* HTML & CSS
 * MySQL, Oracle
 * GitHub
 
