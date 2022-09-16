@@ -8,6 +8,17 @@
 * MySQL, Oracle
 * GitHub
 
+# ☕️ More specifically about Java
+### Java Syntax Zero
+* Collection
+* Exceptions
+* OOP
+### Java Core
+* Lambda expressions
+* Stream API
+* I/O streams
+
+
 ...further more...
 
 
