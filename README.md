@@ -17,6 +17,8 @@
 * Lambda expressions
 * Stream API
 * I/O streams
+* Maven
+* JUnit
 
 
 ...further more...
