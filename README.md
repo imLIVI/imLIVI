@@ -19,6 +19,7 @@
 * I/O streams
 * Maven
 * JUnit
+* Model OSI
 
 
 ...further more...
