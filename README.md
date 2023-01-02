@@ -13,7 +13,7 @@
 * Collection
 * Exceptions
 * OOP
-### Java Core
+### <a href="https://github.com/imLIVI/Netology-JavaCore.git">Java Core</a>
 * Lambda expressions
 * Stream API
 * I/O streams
@@ -22,7 +22,7 @@
 * Mockito
 * Model OSI
 * JVM
-
+### <a href="https://github.com/imLIVI/Netology-Multithreading.git">Multithreading</a>
 
 ...further more...
 
