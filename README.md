@@ -10,18 +10,18 @@
 
 # ☕️ More specifically about Java
 ### Java Syntax Zero
-* Collection
-* Exceptions
+* <a href="https://github.com/imLIVI/Collections.git">Collections</a>
+* <a href="https://github.com/imLIVI/Exceptions.git">Exceptions</a>
 * OOP
 ### <a href="https://github.com/imLIVI/Netology-JavaCore.git">Java Core</a>
 * Lambda expressions
 * Stream API
 * I/O streams
-* Maven
-* JUnit
+* <a href="https://github.com/imLIVI/Multi-moduleMaven.git">Maven</a>
+* <a href="https://github.com/imLIVI/JUnit-Hamcrest.git">JUnit</a>
 * Mockito
-* Model OSI
-* JVM
+* <a href="https://github.com/imLIVI/ClientServerApp-OSI_v2.git">Model OSI</a>
+* <a href="https://github.com/imLIVI/UnderstandingJVM.git">JVM</a> (<a href="https://github.com/imLIVI/ExploringJVMviaVisualVM.git">VisualVM</a>)
 ### <a href="https://github.com/imLIVI/Netology-Multithreading.git">Multithreading</a>
 
 ...further more...
