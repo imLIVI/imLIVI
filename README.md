@@ -14,12 +14,12 @@
 * <a href="https://github.com/imLIVI/Exceptions.git">Exceptions</a>
 * OOP
 ### <a href="https://github.com/imLIVI/Netology-JavaCore.git">Java Core</a>
-* <a href="https://github.com/imLIVI/Netology-JavaCore.git">Lambda expressions</a>)
-* <a href="https://github.com/imLIVI/Netology-JavaCore.git">Stream API</a>)
-* <a href="https://github.com/imLIVI/Netology-JavaCore.git">I/O streams</a>)
+* <a href="https://github.com/imLIVI/Netology-JavaCore.git">Lambda expressions</a>
+* <a href="https://github.com/imLIVI/Netology-JavaCore.git">Stream API</a>
+* <a href="https://github.com/imLIVI/Netology-JavaCore.git">I/O streams</a>
 * <a href="https://github.com/imLIVI/Multi-moduleMaven.git">Maven</a>
 * <a href="https://github.com/imLIVI/JUnit-Hamcrest.git">JUnit</a>
-* <a href="https://github.com/imLIVI/Netology-JavaCore.git">Mockito</a>)
+* <a href="https://github.com/imLIVI/Netology-JavaCore.git">Mockito</a>
 * <a href="https://github.com/imLIVI/ClientServerApp-OSI_v2.git">Model OSI</a>
 * <a href="https://github.com/imLIVI/UnderstandingJVM.git">JVM</a> (<a href="https://github.com/imLIVI/ExploringJVMviaVisualVM.git">VisualVM</a>)
 ### <a href="https://github.com/imLIVI/Netology-Multithreading.git">Multithreading</a>
