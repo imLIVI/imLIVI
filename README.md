@@ -29,6 +29,8 @@
 * <a href="https://github.com/imLIVI/Servlets-Containers.git">Servlets Containers + DI</a>
 * <a href="https://github.com/imLIVI/SpringWebMVC.git">Spring MVC</a>
 
+### JDBC
+* <a href="https://github.com/imLIVI/UserTable-SQL.git">SQL: basics of work, DDL, DML</a>
 ...further more...
 
 
