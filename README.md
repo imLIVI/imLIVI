@@ -29,9 +29,12 @@
 * <a href="https://github.com/imLIVI/Servlets-Containers.git">Servlets Containers + DI</a>
 * <a href="https://github.com/imLIVI/SpringWebMVC.git">Spring MVC</a>
 
+### Spring Boot
+* <a href="https://github.com/imLIVI/ConditionalApp-SpringBoot.git">@ConditionalOnProperty</a>
+* <a href="https://github.com/imLIVI/AutorizationService-REST.git">@ExceptionHandler</a>
+
 ### JDBC
 * <a href="https://github.com/imLIVI/UserTable-SQL.git">SQL: basics of work, DDL, DML</a>
-
 
 ...further more...
 
