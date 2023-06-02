@@ -35,6 +35,8 @@
 
 ### JDBC
 * <a href="https://github.com/imLIVI/UserTable-SQL.git">SQL: basics of work, DDL, DML</a>
+* <a href="https://github.com/imLIVI/TwoTables-SQL.git">SQL: nested subqueries, JOIN</a>
+
 
 ...further more...
 
